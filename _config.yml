@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Meina的博客"
+title                    : "Saki的博客"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Meina"
-description              : "Meina的博客"
+name                     : "Saki"
+description              : "Saki的博客"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,31 +104,28 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meina"
+  name             : "Saki"
   avatar           : "/assets/img/icon/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cisco R&S CCIE/CISSP/RHCE"
-  location         : "Tokyo"
+  bio              : "Cisco Enterprise CCNP/RHCE(Processing)"
+  location         : "Nanjing"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:i@xzc-meina.top
+      url: mailto:i@lsy-saki.top
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.xzc-meina.top"
+      url: "https://www.lsy-saki.top"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MoriMeina"
+      url: "https://github.com/liu-saki"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MoriMeina"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://gitlab.com/Meina9758"
+      url: "https://github.com/liu-saki"
 
 
 # Reading Files
